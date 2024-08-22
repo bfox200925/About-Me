@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bfox200925
+- 👋 Hi, I’m Brittany
 - 👀 I’m interested in Software Development & Web Designing
 - 🌱 I’m currently learning about Software Development and Coding.
 - ⚡ Fun fact: Have two daughters, one dog, and a current healthcare worker. Looking forward to exploring new career paths and learning EVERYTHING involved in creating software apps/programs and dabbling around in Web development/Designing!
